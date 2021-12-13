@@ -1,14 +1,13 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F78ACE&lines=Ol%C3%A1!+Eu+sou+a+Tata+(Tabata+Souto);%C3%89+um+prazer+te+conhecer!)](https://git.io/typing-svg)
 
-<h4>
-  Sobre mim
-</h4>
-
-- São Paulo - Brasil.
-- Estudando Desenvolvimento Web na [Trybe](https://www.betrybe.com/) - turma XP.
-- Meus hobbies são: jogos, livros, séries e filmes.
-- Quer conversar sobre tecnologia ou jogos? É só chamar!
-- Curiosidade: sou apaixonada pelo jogo The Legend of Zelda.
+<div style="display: inline_block";>
+  <h4> Sobre mim </h4>
+    <li>🏘️ São Paulo - Brasil.</li>
+    <li>👩🏻‍🎓 Estudando Desenvolvimento Web na [Trybe](https://www.betrybe.com/) - turma XP.</li>
+    <li>🕹️ Meus hobbies são: jogos, livros, séries e filmes.</li>
+    <li>💬 Quer conversar sobre tecnologia ou jogos? É só chamar!</li>
+    <li>⭐ Curiosidade: sou apaixonada pelo jogo The Legend of Zelda.</li>
+</div>
   
 ##
 
