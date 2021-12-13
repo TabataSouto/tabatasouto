@@ -3,7 +3,7 @@
 <div>
   <h4> Sobre mim </h4>
     <li>🏘️ São Paulo - Brasil.</li>
-    <li>👩🏻‍🎓 Estudando Desenvolvimento Web na [Trybe](https://www.betrybe.com/) - turma XP.</li>
+    <li>👩🏻‍🎓 Estudando Desenvolvimento Web na Trybe - turma XP.</li>
     <li>🕹️ Meus hobbies são: jogos, livros, séries e filmes.</li>
     <li>💬 Quer conversar sobre tecnologia ou jogos? É só chamar!</li>
     <li>⭐ Curiosidade: sou apaixonada pelo jogo The Legend of Zelda.</li>
