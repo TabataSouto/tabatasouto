@@ -4,13 +4,11 @@
   Sobre mim
 </h4>
 
-<div>
-  <p><img src="http://i.stack.imgur.com/5kI3v.png" width="15p"> São Paulo - Brasil.</p>
-  <p><img src="http://i.stack.imgur.com/5kI3v.png" width="15p"> Estudando Desenvolvimento Web na [Trybe](https://www.betrybe.com/) - turma XP.</p>
-  <p><img src="http://i.stack.imgur.com/5kI3v.png" width="15p"> Meus hobbies são: jogos, livros, séries e filmes.</p>
-  <p><img src="http://i.stack.imgur.com/5kI3v.png" width="15p"> Quer conversar sobre tecnologia ou jogos? É só chamar!</p>
-  <p><img src="http://i.stack.imgur.com/5kI3v.png" width="15p"> Curiosidade: sou apaixonada pelo jogo The Legend of Zelda.</p>
-</div>
+- São Paulo - Brasil.
+- Estudando Desenvolvimento Web na [Trybe](https://www.betrybe.com/) - turma XP.
+- Meus hobbies são: jogos, livros, séries e filmes.
+- Quer conversar sobre tecnologia ou jogos? É só chamar!
+- Curiosidade: sou apaixonada pelo jogo The Legend of Zelda.
   
 ##
 
