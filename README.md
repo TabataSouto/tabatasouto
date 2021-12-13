@@ -1,6 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F78ACE&lines=Ol%C3%A1!+Eu+sou+a+Tata+(Tabata+Souto);%C3%89+um+prazer+te+conhecer!)](https://git.io/typing-svg)
 
-### Sobre mim
+<h4>
+  Sobre mim
+</h4>
 
 - 🏡  São Paulo - Brasil
 - 📚  Estudando Desenvolvimento Web na [Trybe](https://www.betrybe.com/) - turma XP.
@@ -10,4 +12,5 @@
 
 ##
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tabatasouto&theme=panda&show_icons=true)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tabatasouto&theme=dracula&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tabatasouto&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
