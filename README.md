@@ -9,3 +9,5 @@
 - 😍  Curiosidade: sou apaixonada por The Legend of Zelda.
 
 ##
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tabatasouto&theme=panda&show_icons=true)
