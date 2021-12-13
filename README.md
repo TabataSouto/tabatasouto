@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F78ACE&lines=Ol%C3%A1!+Eu+sou+a+Tata+(Tabata+Souto);%C3%89+um+prazer+te+conhecer!)](https://git.io/typing-svg)
 
-<div style="display: inline_block";>
+<div>
   <h4> Sobre mim </h4>
     <li>🏘️ São Paulo - Brasil.</li>
     <li>👩🏻‍🎓 Estudando Desenvolvimento Web na [Trybe](https://www.betrybe.com/) - turma XP.</li>
@@ -43,8 +43,8 @@
 <h4>Codewars e contato:</h4>
 
 <div align="center" display="inline_block">
-  <a href="https://www.codewars.com/users/TabataSouto"><img src="https://www.codewars.com/users/TabataSouto/badges/micro"></a>
-  <a href="https://www.linkedin.com/in/tabatasouto//" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" height="20";></a> 
+  <a href="https://www.codewars.com/users/TabataSouto"><img src="https://www.codewars.com/users/TabataSouto/badges/micro" width="160"></a>
+  <a href="https://www.linkedin.com/in/tabatasouto//" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank";></a> 
 </div>
 
 ##
