@@ -30,7 +30,23 @@
 | ------------- | ------------- |  
   
 </div>
+
+<div align="center">
   
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tabatasouto&repo=tabatasouto.github.io&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true"/></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tabatasouto&repo=trybewarts&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true"/></a> |
+| ------------- | ------------- |
+  
+</div>
+  
+##
+
+<h4>Codewars e contato:</h4>
+
+<div align="center" display="inline_block">
+  <a href="https://www.codewars.com/users/TabataSouto"><img src="https://www.codewars.com/users/TabataSouto/badges/micro"></a>
+  <a href="https://www.linkedin.com/in/tabatasouto//" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" height="20";></a> 
+</div>
+
 ##
 
 <div align="center">
