@@ -14,3 +14,12 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tabatasouto&theme=dracula&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tabatasouto&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+##
+
+<div align="center">
+  <p>
+    ⭐️ Perfil baseado em <a href="https://github.com/thalles-carneiro">Thalles Carneiro</a>,  <a href="https://github.com/SrTonn">SrTonn</a> e <a href="https://github.com/Guthias">Guthias</a>
+  </p>
+  <img src="https://komarev.com/ghpvc/?username=tabatasouto" alt="profile views" />
+</div>
