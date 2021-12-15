@@ -33,7 +33,7 @@
 
 <div align="center">
   
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tabatasouto&repo=tabatasouto.github.io&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true"/></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tabatasouto&repo=trybewarts&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true"/></a> |
+| <a href="https://github.com/TabataSouto/tabatasouto.github.io"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tabatasouto&repo=tabatasouto.github.io&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true"/></a> | <a href="https://github.com/TabataSouto/trybewarts"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tabatasouto&repo=trybewarts&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true"/></a> |
 | ------------- | ------------- |
   
 </div>
