@@ -42,7 +42,7 @@
 
 <div align="center">
   
-| <a href="https://github.com/TabataSouto/tabatasouto.github.io"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tabatasouto&repo=tabatasouto.github.io&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true"/></a> | <a href="https://github.com/TabataSouto/pokemon-game"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tabatasouto&repo=pokemon-game&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true"/></a> |
+| <a href="https://github.com/TabataSouto/tabatasouto.github.io"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tabatasouto&repo=tabatasouto.github.io&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true"/></a> | <a href="https://github.com/TabataSouto/project-my-songs-angular"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tabatasouto&repo=project-my-songs-angular&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true"/></a> |
 | ------------- | ------------- |
   
 </div>
