@@ -19,7 +19,11 @@
   <img title="NodeJS" alt="NodeJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img title="Jest" alt="Jest" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg">
   <img title="Linux" alt="Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
-  <img title="GIT" alt="GIT" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"> 
+  <img title="GIT" alt="GIT" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  <img title="React" alt="React" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg">
+  <img title="Redux" alt="Redux" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/redux.svg">
+  <img title="Angular" alt="Angular" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg">
+  <img title="Jasmine" alt="Jasmine" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/en/thumb/2/22/Logo_jasmine.svg/800px-Logo_jasmine.svg.png">
 </div>
 
 <br>
