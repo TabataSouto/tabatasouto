@@ -24,6 +24,11 @@
   <img title="Redux" alt="Redux" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/redux.svg">
   <img title="Angular" alt="Angular" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg">
   <img title="Jasmine" alt="Jasmine" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/en/thumb/2/22/Logo_jasmine.svg/800px-Logo_jasmine.svg.png">
+  <img title="Docker" alt="Docker" height="30" width="40" src="https://www.svgrepo.com/show/349342/docker.svg">
+  <img title="MySql" alt="MySql" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/mysql-6.svg">
+  <img title="MongoDB" alt="MongoDB" height="30" width="40" src="https://www.svgviewer.dev/static-svgs/34566/mongodb.svg">
+  <img title="Python" alt="Python" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/172px-Python-logo-notext.svg.png?20220821155029">
+  <img title="Azure" alt="Azure" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/873/873107.png">
 </div>
 
 <br>
